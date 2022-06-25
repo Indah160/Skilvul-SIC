@@ -1,2 +1,5 @@
 Nama	:Rudi
 Umur	:40 tahun
+
+Nama	:Maria
+Umur	:45 tahun
